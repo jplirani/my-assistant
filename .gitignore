@@ -4,9 +4,15 @@ __pycache__/
 *$py.class
 
 # Virtual env
-.env
-venv/
 .venv/
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.python-version
 
 # VS Code
 .vscode/
@@ -15,4 +21,13 @@ venv/
 client_secrets.json
 .streamlit/secrets.toml
 
+# Build/output files
+*.so
+*.dylib
+*.egg-info/
+dist/
+build/
+
+# System files
+.DS_Store
 __pycache__/
