@@ -54,4 +54,3 @@ if st.button("Get Today's Brief"):
     # Display the result
     st.markdown("### Your Morning Brief")
     st.markdown(summary)
-
