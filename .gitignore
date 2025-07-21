@@ -6,6 +6,7 @@ __pycache__/
 # Virtual env
 .env
 venv/
+.venv/
 
 # VS Code
 .vscode/
@@ -13,3 +14,5 @@ venv/
 # Secrets
 client_secrets.json
 .streamlit/secrets.toml
+
+__pycache__/
