@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: speech-transcriber
+Version: 0.1.0
+Summary: Drag‐and‐drop speech‐to‐text app using Streamlit
+Author-email: Your Name <you@example.com>
+

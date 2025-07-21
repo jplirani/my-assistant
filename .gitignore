@@ -1,0 +1,15 @@
+# Byte‐compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+.env
+venv/
+
+# VS Code
+.vscode/
+
+# Secrets
+client_secrets.json
+.streamlit/secrets.toml

@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+/home/joe/python/my-assistant/pip-wheel-metadata/speech_transcriber.egg-info/PKG-INFO
+/home/joe/python/my-assistant/pip-wheel-metadata/speech_transcriber.egg-info/SOURCES.txt
+/home/joe/python/my-assistant/pip-wheel-metadata/speech_transcriber.egg-info/dependency_links.txt
+/home/joe/python/my-assistant/pip-wheel-metadata/speech_transcriber.egg-info/top_level.txt
+tests/test_transcript.py

@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: my_assistant
+Version: 0.1.0
+Summary: A Streamlit‑based personal morning briefing agent (calendar, contacts, email).
+Author-email: Your Name <you@example.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: google-auth
+Requires-Dist: google-auth-oauthlib
+Requires-Dist: google-api-python-client
+Requires-Dist: langchain
+Requires-Dist: langchain_community
+Requires-Dist: openai
+
+# Speech Transcriber
+
+A simple Streamlit app to upload an audio file and view its transcript.
